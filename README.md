@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @0osamaa
-- 👀 I’m interested in Voice Cloning (speech with my own voice)
-- 🌱 I’m currently learning Neural Network for creating voice clone 
-- 💞️ I’m looking to collaborate on AI project especially voice synthesis.
-- 📫 text on email osamaqvreshi786@gmail.com
+# Hello, I'm @0osamaa! 👋
 
-<!---
-0osamaa/0osamaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Software Engineer based in Rockville, passionate about building robust and scalable applications. My expertise lies in Java, Spring Boot, MySQL, RabbitMQ, Redis, and working with various APIs.
+
+## 🚀 Technologies & Tools
+
+- Java
+- Spring Boot
+- MySQL
+- RabbitMQ
+- Redis
+- API's
