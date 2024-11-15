@@ -1,46 +1,18 @@
-# Hello, I'm @0osamaa! 👋
-
-Experienced Java Developer with almost 3 years of hands-on experience. Skilled in designing, developing, and maintaining a variety of complex, microservices-based products. Proficient in Java, Spring, SQL, as well as containerization and container orchestration technologies. Effective communicator and adept project manager, committed to driving projects forward.
-
-
-## 🚀 Technologies & Tools
+# 💫 About Me:
+<br>I'm currently working on a ROPAY Fintech App.<br>Worked in multiple programming languages and proficient in software development methodologies.<br>Committed to creating innovative solutions to complex problems.
 
 
-• Core Java                           • Object-Oriented Programming                • RabbitMQ
-• Spring Boot                         • Aspect-Oriented Programming                • Spring Cloud
-• Spring Data JPA                     • Spring MVC                                 • Redis
-• Multithreading                      • Inversion of Control (IoC)                 • Docker
-• Java Collection API                 • Maven                                      • Relational-Database(SQL)
-• JSON Web Token (JWT)                • Linux                                      • CI/CD
-• Design Patterns                     • Git                                        • Debugging
-• Spring Webflux                      • API Testing                                • Troubleshooting
-• RESTful Webservices                 • OAuth2
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0osamaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0osamaaa) 
 
-## 🚀 Experience
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0osamaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0osamaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0osamaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Rockville Technologies Pvt Ltd Jan 2023 – Present
-Java Developer Islamabad, Pakistan
-• Integrated RabbitMQ to implement asynchronous calls, resulting in a 90% reduction in referential integrity errors.
-• Developed common APIs for Double Number services across 4 Telcos, utilizing Java 17, Spring Boot 3.1.1, and HTTPS
-to ensure secure data exchange.
-• Implemented Drools integration to externalize business logic, resulting in seamless price point updates and significantly
-improving business agility.
-• Achieved 100% automation of database calls through a combination of Bash scripts, database sharding, and caching,
-optimizing performance and reducing manual efforts.
-• Architected High-Performance Microservice: Built the ZONG BEEP CALL application using Java 17, RabbitMQ, Redis
-Cache, Kubernetes, and a microservice architecture, achieving an impressive 99% TPS.
-• Delivered Secure and Maintainable Portal: Created the UCONNECT WEB PORTAL with Java 17, Spring Boot, Spring
-MVC, Spring Security, and caching for effective business query management.
-• Revamped legacy applications to Java 17 and Spring Boot 3.1.1, ensuring future compatibility and adaptability.
-• Redesigned running applications with strategy design patterns, promoting flexible integration with future systems and
-enhancing overall system efficiency.
-• Developed clear and concise application diagrams using Draw.io, facilitating enhanced understanding and collaboration
-among developers, ultimately leading to more efficient project workflows.
-Rockville Technologies Pvt Ltd Jun 2022 – Jan 2023
-Jr.Java Developer Islamabad, Pakistan
-• Managed both the creation of new service components and maintenance of existing ones, ensuring the seamless operation
-of services.
-• Working with all groups to understand what the service needed to do.
-• Utilized Git for version control, effectively organizing modifications and assigning tasks within the team to ensure
-streamlined development processes.
-• Fixing problems in small parts of the service and systems that are spread out to figure out why they happened
+---
+[![](https://visitcount.itsvg.in/api?id=0osamaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
