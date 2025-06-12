@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br>I'm currently working on a ROPAY Fintech App.<br>Worked in multiple programming languages and proficient in software development methodologies.<br>Committed to creating innovative solutions to complex problems.
-
+<br>Expertise in designing, developing, and maintaining complex microservices-based applications<br>Proficient in Java, Spring, SQL, Docker, Kubernetes.<br>Strong in system design, API development, and performance optimization.<br>Skilled in containerization, orchestration, and scalable architectures.<br>Effective communicator with hands-on project management experience.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0osamaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0osamaaa) 
